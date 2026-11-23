@@ -9,7 +9,6 @@ function Footer() {
         color: "white",
       }}
     >
-      © 2026 ChurnShield
     </footer>
   );
 }
